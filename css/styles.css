@@ -481,7 +481,7 @@ span {
     font-size: 50%;
   }
   .about-img {
-    
+    display: none;
   }
    .about {
     flex-direction: column;
