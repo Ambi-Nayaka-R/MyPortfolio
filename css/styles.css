@@ -426,9 +426,7 @@ span {
   #menu-icon {
     display: block;
   }
-  .about-img {
-    display: none;
-  }
+  
   .navbar {
     position: absolute;
     top: 100%;
